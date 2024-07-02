@@ -1,0 +1,43 @@
+.card{
+    margin-top: 5rem;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 32px;
+
+}
+
+.cardWrapper {
+    
+    width: 300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 36px;
+    gap: 36px;
+    border-radius: 10px;
+    background-color: #05445E;
+    color: #D4F1F4;
+    
+}
+
+.cardWrapper img{
+    margin-top: 1rem;
+    width: 100%;
+    border-radius: 10px;
+
+}
+
+.cardWrapper button {
+    margin: 0 30px;
+    margin-top: 10px;
+    border: none;
+    border-radius: 5px;
+    padding: 10px;
+    background-color: #189AB4;
+    cursor: pointer;
+}
+
+.cardWrapper button:hover {
+    background-color: #75E6DA;
+}

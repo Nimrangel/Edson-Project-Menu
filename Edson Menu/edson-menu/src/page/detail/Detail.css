@@ -1,0 +1,53 @@
+.detailWrapper{
+  
+    margin-top: 3rem;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+}
+
+.imgWrapper img{
+    margin-top: 1rem;
+    width: 300px;
+    height: 250px;
+    border-radius: 10px;
+}
+
+.mealImage img{
+    width: 150px;
+}
+
+
+.bottomWrapper{
+
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   flex-wrap: wrap;
+   gap: 32px;
+}
+
+.nutWrapper{
+    padding: 10px;
+    background-color: #05445E;
+    color: #D4F1F4;
+    width: 250px;
+    border-radius: 10px;
+}
+
+
+.mealImage{
+    padding: 10px;
+    background-color: #05445E;
+    color: #D4F1F4;
+    width: 250px;
+    border-radius: 10px;
+}
+
+.ingWrapper{
+    padding: 10px;
+    background-color: #05445E;
+    color: #D4F1F4;
+    width: 250px;
+    border-radius: 10px;
+}
